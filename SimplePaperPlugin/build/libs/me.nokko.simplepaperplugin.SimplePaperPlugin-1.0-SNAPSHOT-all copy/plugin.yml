@@ -1,9 +1,0 @@
-name: "SimplePaperPlugin" # the plugin's name as it should appear in the plugin list, /pl
-version: "1.0" # the plugin's version
-
-# The author's name
-author: "Nokko"
-
-# The main class, where the onEnable and onDisable methods are. (Ex: org.spigotmc.tutorial.MyPluginName)
-main: me.nokko.simplepaperplugin.SimplePaperPlugin
-api-version: 1.17
